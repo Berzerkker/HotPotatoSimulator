@@ -5,11 +5,7 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSteamSessions",
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	]
