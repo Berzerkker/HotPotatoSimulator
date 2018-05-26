@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c5eb1d89-0627-48ac-81e6-2d4f6b09d7f0}">
+        <property name="assetPath">
+            <value>DT_MentalHospital_CT.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>41.589281249999999</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3add573f-4c57-4d59-addc-e7a88af1d219}</destination>
+        </relationship>
+    </object>
+</objects>

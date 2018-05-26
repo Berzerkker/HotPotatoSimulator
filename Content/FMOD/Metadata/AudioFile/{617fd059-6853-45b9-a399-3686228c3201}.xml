@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{617fd059-6853-45b9-a399-3686228c3201}">
+        <property name="assetPath">
+            <value>Cloth 4.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.74989583333333332</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3add573f-4c57-4d59-addc-e7a88af1d219}</destination>
+        </relationship>
+    </object>
+</objects>
