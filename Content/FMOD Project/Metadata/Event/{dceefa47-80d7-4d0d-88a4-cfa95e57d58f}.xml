@@ -83,6 +83,12 @@
     </object>
     <object class="MixerBusPanner" id="{4c556f18-047f-4c33-8447-236dd8b85b6d}"/>
     <object class="SingleSound" id="{fb4c0b51-d335-46a2-915c-9afc1a4603cc}">
+        <property name="triggerProbabilityEnabled">
+            <value>true</value>
+        </property>
+        <property name="triggerProbability">
+            <value>30.5</value>
+        </property>
         <property name="length">
             <value>10</value>
         </property>
@@ -124,7 +130,11 @@
             <destination>{cfc7d1fa-b713-4183-8bdf-c5322e5f3b15}</destination>
         </relationship>
     </object>
-    <object class="MixerBusPanner" id="{d4489da1-08e0-4c1c-a6e3-ceb379540625}"/>
+    <object class="MixerBusPanner" id="{d4489da1-08e0-4c1c-a6e3-ceb379540625}">
+        <relationship name="modulators">
+            <destination>{1ea1fafc-3555-4086-8dee-edd69a49243f}</destination>
+        </relationship>
+    </object>
     <object class="MixerBusFader" id="{80b53522-e73f-4eab-9d7c-eb52126a36aa}"/>
     <object class="MixerBusFader" id="{856c5e7a-d19e-44d1-a15d-1352efc8ae7a}"/>
     <object class="SFXReverbEffect" id="{d8b599c2-0be9-47aa-9966-c8501575e97a}">
@@ -135,6 +145,14 @@
     <object class="PitchShifterEffect" id="{cfc7d1fa-b713-4183-8bdf-c5322e5f3b15}">
         <property name="pitch">
             <value>0.810000062</value>
+        </property>
+    </object>
+    <object class="RandomizerModulator" id="{1ea1fafc-3555-4086-8dee-edd69a49243f}">
+        <property name="nameOfPropertyBeingModulated">
+            <value>stereoPan</value>
+        </property>
+        <property name="amount">
+            <value>70</value>
         </property>
     </object>
 </objects>

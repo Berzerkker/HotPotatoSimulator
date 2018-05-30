@@ -91,6 +91,9 @@
         </relationship>
     </object>
     <object class="EventMixerGroup" id="{a75c804f-d212-4b1b-bc38-9a4f887f1fba}">
+        <property name="volume">
+            <value>-3.5</value>
+        </property>
         <property name="name">
             <value>Audio 1</value>
         </property>
@@ -117,12 +120,24 @@
             <destination>{6229c89a-679e-4832-b19c-73ab10ce2257}</destination>
         </relationship>
     </object>
-    <object class="MixerBusPanner" id="{67cf200d-2cc3-4360-bd42-987ca0d2786d}"/>
+    <object class="MixerBusPanner" id="{67cf200d-2cc3-4360-bd42-987ca0d2786d}">
+        <relationship name="modulators">
+            <destination>{aca5cb0d-00c4-4284-85e0-e62487f0604c}</destination>
+        </relationship>
+    </object>
     <object class="MixerBusFader" id="{e2a19d18-9fa4-4450-bf6d-4849e32f14ca}"/>
     <object class="MixerBusFader" id="{5bc0dffa-4519-433e-902e-84128a72e5ff}"/>
     <object class="SFXReverbEffect" id="{6229c89a-679e-4832-b19c-73ab10ce2257}">
         <property name="decayTime">
             <value>4700</value>
+        </property>
+    </object>
+    <object class="RandomizerModulator" id="{aca5cb0d-00c4-4284-85e0-e62487f0604c}">
+        <property name="nameOfPropertyBeingModulated">
+            <value>stereoPan</value>
+        </property>
+        <property name="amount">
+            <value>70</value>
         </property>
     </object>
 </objects>

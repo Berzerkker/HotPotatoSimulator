@@ -136,7 +136,11 @@
             <destination>{c2a21dd6-a36e-4435-bce2-3cee9d56053c}</destination>
         </relationship>
     </object>
-    <object class="MixerBusPanner" id="{fd05a8ec-10dd-49d0-aa2b-9f5535ab0873}"/>
+    <object class="MixerBusPanner" id="{fd05a8ec-10dd-49d0-aa2b-9f5535ab0873}">
+        <relationship name="modulators">
+            <destination>{905ad67b-9f0d-4bfe-85bb-a2a8a85ee1dc}</destination>
+        </relationship>
+    </object>
     <object class="MixerBusFader" id="{15994111-8f2d-4088-ae78-661bd0ae887b}"/>
     <object class="AutomationCurve" id="{d52ef8fa-1237-43a3-a3d5-1887bba10664}">
         <relationship name="parameter">
@@ -155,12 +159,20 @@
             <value>3800</value>
         </property>
     </object>
+    <object class="RandomizerModulator" id="{905ad67b-9f0d-4bfe-85bb-a2a8a85ee1dc}">
+        <property name="nameOfPropertyBeingModulated">
+            <value>stereoPan</value>
+        </property>
+        <property name="amount">
+            <value>70</value>
+        </property>
+    </object>
     <object class="AutomationPoint" id="{82d98609-0e95-4f0e-8a99-5023066bd216}">
         <property name="position">
             <value>1.6830136570561456</value>
         </property>
         <property name="value">
-            <value>0</value>
+            <value>-2</value>
         </property>
     </object>
     <object class="AutomationPoint" id="{23040bf2-74c6-4bc8-9eaa-76c9f73a8fff}">
@@ -168,7 +180,7 @@
             <value>0.26573899848254928</value>
         </property>
         <property name="value">
-            <value>-5</value>
+            <value>-9</value>
         </property>
     </object>
     <object class="AutomationPoint" id="{d67b3a38-e8e5-4aa8-aa1a-80e15716e752}">
@@ -176,7 +188,7 @@
             <value>5.9348376327769339</value>
         </property>
         <property name="value">
-            <value>-4</value>
+            <value>-6</value>
         </property>
     </object>
     <object class="AutomationPoint" id="{6a437dda-6018-46f6-bba6-46093d464a6a}">
