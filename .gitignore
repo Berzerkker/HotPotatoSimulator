@@ -14,3 +14,9 @@ StarterContent/
 *.xcodeproj
 *.xcworkspace
 
+# FMOD studio
+/FMOD Project/**.user
+/FMOD Project/**.unsaved
+/FMOD Project/**.cache
+/FMOD Project/**.restore
+
