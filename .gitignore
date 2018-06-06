@@ -16,8 +16,8 @@ StarterContent/
 
 # FMOD studio
 /Plugins/FMODStudio
-/FMOD Project/**.user
-/FMOD Project/**.unsaved
-/FMOD Project/**.cache
-/FMOD Project/**.restore
+/FMOD Project/*.user
+/FMOD Project/*.unsaved
+/FMOD Project/*.cache
+/FMOD Project/*.restore
 
