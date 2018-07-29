@@ -64,10 +64,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ApexDestruction",
-			"Enabled": true
-		},
-		{
 			"Name": "PerforceSourceControl",
 			"Enabled": false
 		},
