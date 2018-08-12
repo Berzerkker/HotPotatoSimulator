@@ -1,0 +1,1403 @@
+﻿Log file open, 08/07/18 17:43:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: HotPotatoSimulator
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1292381927) SRandInit(-1292381927).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.338999
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/Binaries/Win64/UE4Editor-WindowsDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MfMedia/Binaries/Win64/UE4Editor-MfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MfMedia/Binaries/Win64/UE4Editor-MfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogModuleManager: Warning: No filename provided for module OnlineSubsystemSteam
+LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemSteam' because the file 'D:/Unreal/Epic Games/UE_4.18/Engine/Binaries/Win64/' was not found.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Unreal/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.07-23.43.28:347][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-23.43.28:347][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.07-23.43.28:398][  0]LogInit: Computer: DESKTOP-02FN524
+[2018.08.07-23.43.28:398][  0]LogInit: User: ajaco
+[2018.08.07-23.43.28:398][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.07-23.43.28:398][  0]LogInit: High frequency timer resolution =3.421877 MHz
+[2018.08.07-23.43.28:398][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.08.07-23.43.28:398][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.07-23.43.28:398][  0]LogMemory: Process Physical Memory: 270.58 MB used, 270.58 MB peak
+[2018.08.07-23.43.28:398][  0]LogMemory: Process Virtual Memory: 263.52 MB used, 263.52 MB peak
+[2018.08.07-23.43.28:398][  0]LogMemory: Physical Memory: 5054.96 MB used,  27628.48 MB free, 32683.45 MB total
+[2018.08.07-23.43.28:398][  0]LogMemory: Virtual Memory: 4765.47 MB used,  27628.48 MB free, 134217728.00 MB total
+[2018.08.07-23.43.28:970][  0]LogInit: Using OS detected language (en-US).
+[2018.08.07-23.43.28:970][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.07-23.43.29:164][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.07-23.43.29:726][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.07-23.43.31:909][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.07-23.43.31:952][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.08.07-23.43.31:952][  0]LogD3D11RHI:       8088/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.07-23.43.31:953][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.07-23.43.31:953][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.07-23.43.31:953][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.07-23.43.31:958][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.07-23.43.31:958][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.07-23.43.31:958][  0]LogWindows: EnumDisplayDevices:
+[2018.08.07-23.43.31:958][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.08.07-23.43.31:958][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.07-23.43.31:958][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.07-23.43.31:958][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.07-23.43.31:958][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.07-23.43.31:958][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.08.07-23.43.31:958][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.07-23.43.31:958][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.07-23.43.31:958][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.08.07-23.43.31:984][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.07-23.43.32:003][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.07-23.43.32:046][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../UnrealProjects/HotSouls/Intermediate/Shaders/WorkingDirectory/6388/).
+[2018.08.07-23.43.32:046][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ajaco/AppData/Local/Temp/UnrealShaderWorkingDir/21A926AE4F635C13E12E86ABAFD6B839/'.
+[2018.08.07-23.43.32:046][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.07-23.43.34:483][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.07-23.43.34:515][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.07-23.43.34:558][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.07-23.43.34:592][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.07-23.43.34:652][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.07-23.43.34:684][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.07-23.43.34:715][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.07-23.43.34:743][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.07-23.43.34:769][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.07-23.43.34:798][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.07-23.43.34:827][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.07-23.43.34:856][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.07-23.43.34:886][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.07-23.43.34:919][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.07-23.43.34:983][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.07-23.43.34:983][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.07-23.43.35:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-23.43.35:045][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.07-23.43.35:167][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.07-23.43.35:184][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.07-23.43.35:216][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.07-23.43.35:246][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.07-23.43.35:275][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.07-23.43.35:309][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.07-23.43.35:309][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.07-23.43.36:149][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.07-23.43.36:397][  0]LogDerivedDataCache: Loaded boot cache 0.25s 78MB C:/Users/ajaco/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.07-23.43.36:397][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ajaco/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.08.07-23.43.36:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/HotSouls/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.07-23.43.36:397][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.07-23.43.36:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/HotSouls/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.07-23.43.36:397][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.07-23.43.36:448][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.07-23.43.36:460][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ajaco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.07-23.43.36:469][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.07-23.43.36:469][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.07-23.43.36:547][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.07-23.43.36:547][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.07-23.43.40:459][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-23.43.41:521][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.07-23.43.41:563][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.07-23.43.41:573][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.07-23.43.41:574][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.07-23.43.41:575][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.07-23.43.41:575][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.07-23.43.41:687][  0]LogNetVersion: HotPotatoSimulator , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1676668367)
+[2018.08.07-23.43.42:323][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.08.07-23.43.46:461][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.127277 seconds
+[2018.08.07-23.43.46:466][  0]LogUObjectArray: 35364 objects as part of root set at end of initial load.
+[2018.08.07-23.43.46:466][  0]LogUObjectAllocator: 7260640 out of 0 bytes used by permanent object pool.
+[2018.08.07-23.43.46:466][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.07-23.43.53:274][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.07-23.43.53:301][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.07-23.43.54:045][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.07-23.43.54:413][  0]SourceControl: Source control is disabled
+[2018.08.07-23.43.54:413][  0]SourceControl: Source control is disabled
+[2018.08.07-23.43.55:158][  0]LogEngine: Initializing Engine...
+[2018.08.07-23.43.55:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-23.43.55:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-23.43.55:694][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.07-23.43.55:706][  0]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.07-23.43.55:720][  0]LogInit: FAudioDevice initialized.
+[2018.08.07-23.43.55:804][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/ajaco/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.07-23.43.55:815][  0]LogInit: Texture streaming: Enabled
+[2018.08.07-23.43.55:865][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.07-23.43.55:942][  0]LogInit: Transaction tracking system initialized
+[2018.08.07-23.43.56:151][  0]BlueprintLog: New page: Editor Load
+[2018.08.07-23.43.57:090][  0]LocalizationService: Localization service is disabled
+[2018.08.07-23.43.57:946][  0]LogConsoleResponse: Display: 
+[2018.08.07-23.43.59:605][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.07-23.43.59:605][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.07-23.43.59:605][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.07-23.44.00:612][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/UnrealProjects/HotSouls/Content/' took 0.05s
+[2018.08.07-23.44.02:009][  0]SourceControl: Source control is disabled
+[2018.08.07-23.44.02:009][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/HotSouls/Content/Maps/Hospital.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-23.44.02:010][  0]LightingResults: New page: Lighting Build
+[2018.08.07-23.44.02:031][  0]MapCheck: New page: Map Check
+[2018.08.07-23.44.02:031][  0]LightingResults: New page: Lighting Build
+[2018.08.07-23.44.20:278][  0]LogAIModule: Creating AISystem for world Hospital
+[2018.08.07-23.44.20:345][  0]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Hospital.Hospital:PersistentLevel.SM_Table5_81.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.08.07-23.44.20:346][  0]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Hospital.Hospital:PersistentLevel.SM_Table7_176.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.08.07-23.44.20:448][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-23.44.20:473][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-23.44.20:542][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.642ms to complete.
+[2018.08.07-23.44.20:542][  0]LogFileHelpers: Loading map 'Hospital' took 18.533
+[2018.08.07-23.44.20:745][  0]LogCollectionManager: Loaded 0 collections in 0.001010 seconds
+[2018.08.07-23.44.20:801][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/UnrealProjects/HotSouls/Saved/Collections/' took 0.01s
+[2018.08.07-23.44.20:801][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/UnrealProjects/HotSouls/Content/Developers/ajaco/Collections/' took 0.01s
+[2018.08.07-23.44.20:801][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/UnrealProjects/HotSouls/Content/Collections/' took 0.01s
+[2018.08.07-23.44.20:801][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.07-23.44.20:808][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2342 classes and 493 folders.
+[2018.08.07-23.44.20:840][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.07-23.44.22:045][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.07-23.44.22:078][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.07-23.44.22:242][  0]LogSlate: Took 0.044782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.07-23.44.22:257][  0]LogSlate: Took 0.012188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.07-23.44.22:272][  0]LogSlate: Took 0.011910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.07-23.44.22:476][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.08.07-23.44.22:829][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.07-23.44.22:829][  0]LogLoad: (Engine Initialization) Total time: 77.81 seconds
+[2018.08.07-23.44.22:829][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.07-23.44.22:829][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.08.07-23.44.23:186][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.07-23.44.23:271][  0]LogSlate: Took 0.030745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.07-23.44.23:516][  1]LogAssetRegistry: Asset discovery search completed in 41.2155 seconds
+[2018.08.07-23.44.23:519][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.07-23.44.23:519][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2018.08.07-23.52.11:684][549]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.07-23.52.14:965][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.07-23.52.14:981][549]LogSavePackage: Save=6.69ms
+[2018.08.07-23.52.14:981][549]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub6821666E40D58AB1D43778AC05BEDB87.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap'
+[2018.08.07-23.52.14:982][549]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap
+[2018.08.07-23.52.14:982][549]LogFileHelpers: Saving map 'TheaterHub' took 0.083
+[2018.08.07-23.52.14:985][549]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-23.52.14:985][549]LightingResults: New page: Lighting Build
+[2018.08.07-23.52.14:986][549]LoadErrors: New page: Loading map: TheaterHub.umap
+[2018.08.07-23.52.14:991][549]MapCheck: New page: Map Check
+[2018.08.07-23.52.14:991][549]LightingResults: New page: Lighting Build
+[2018.08.07-23.52.15:043][549]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-23.52.15:044][549]LogAIModule: Creating AISystem for world TheaterHub
+[2018.08.07-23.52.15:054][549]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.07-23.52.15:077][549]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-23.52.15:138][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.487ms to complete.
+[2018.08.07-23.52.15:139][549]LogFileHelpers: Loading map 'TheaterHub' took 0.156
+[2018.08.08-00.00.55:024][320]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.08-00.00.55:634][392]Cmd: DELETE
+[2018.08.08-00.00.55:635][392]Cmd: ACTOR DELETE
+[2018.08.08-00.00.55:636][392]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.08.08-00.00.55:644][392]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.08.08-00.00.56:148][453]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.08.08-00.00.56:464][488]Cmd: DELETE
+[2018.08.08-00.00.56:464][488]Cmd: ACTOR DELETE
+[2018.08.08-00.00.56:465][488]LogEditorActor: Deleted Actor: SkyLight
+[2018.08.08-00.00.56:474][488]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.08.08-00.01.09:912][ 99]LogActorFactory: Actor Factory created Cube
+[2018.08.08-00.01.10:056][116]LogActorFactory: Actor Factory created Cube
+[2018.08.08-00.01.19:226][202]Cmd: DELETE
+[2018.08.08-00.01.19:226][202]Cmd: ACTOR DELETE
+[2018.08.08-00.01.19:227][202]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.08-00.01.19:236][202]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.08.08-00.02.03:140][984]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.08-00.02.06:361][292]AssetReimport: New page: Outstanding source content changes 12:02:06 PM
+[2018.08.08-00.02.06:361][292]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.fbx)
+[2018.08.08-00.02.06:365][292]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.08-00.02.06:365][292]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.08.08-00.02.06:365][292]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.08-00.02.06:365][292]LogFbx: ItemName: Model, ItemCount : 3
+[2018.08.08-00.02.06:365][292]LogFbx: ItemName: Material, ItemCount : 1
+[2018.08.08-00.02.06:370][292]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.fbx
+[2018.08.08-00.02.06:375][292]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-00.02.25:256][292]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.fbx
+[2018.08.08-00.02.25:262][292]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-00.02.25:262][292]LogLinker: Can't find file '/Game/Meshes/TheaterBuilding/Material_001'
+[2018.08.08-00.02.25:262][292]LogLinker: Can't find file '/Game/Meshes/TheaterBuilding/Material_001'
+[2018.08.08-00.02.25:266][292]LogMaterial: Missing cached shader map for material Material_001, compiling. 
+[2018.08.08-00.02.25:324][292]LogStaticMesh: Building static mesh TheaterRoom1Prefab...
+[2018.08.08-00.02.25:509][292]LogStaticMesh: Built static mesh [0.18s] /Game/Meshes/TheaterBuilding/TheaterRoom1Prefab.TheaterRoom1Prefab
+[2018.08.08-00.02.25:648][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom1Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset" SILENT=true
+[2018.08.08-00.02.25:662][293]LogSavePackage: Save=12.77ms
+[2018.08.08-00.02.25:662][293]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom1Prefab63EDCC7A4E471898CFA4AC8339B5A40A.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset'
+[2018.08.08-00.02.25:665][293]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset
+[2018.08.08-00.02.28:675][620]AssetReimport: Importing new asset /Game/Meshes/TheaterBuilding/TheaterRoom1Prefab.
+[2018.08.08-00.02.31:094][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.08-00.02.31:115][905]LogSavePackage: Save=6.05ms
+[2018.08.08-00.02.31:115][905]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub_Auto1BE8AE97A4DEA3D800C45B9A9BB173D42.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto1.umap'
+[2018.08.08-00.02.31:115][905]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto1.umap
+[2018.08.08-00.02.31:119][905]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TheaterHub' took 0.046
+[2018.08.08-00.02.31:119][905]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.046
+[2018.08.08-00.02.31:121][905]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/TheaterBuilding/Material_001] ([1] browsable assets)...
+[2018.08.08-00.02.31:129][905]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/TheaterBuilding/Material_001.Material_001]
+[2018.08.08-00.02.31:129][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/TheaterBuilding/Material_001]
+[2018.08.08-00.02.31:141][905]LogSavePackage: Save=11.20ms
+[2018.08.08-00.02.31:141][905]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/Material_001_Auto1CE9036E54EC484E7A67A2186A82E6EA8.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Meshes/TheaterBuilding/Material_001_Auto1.uasset'
+[2018.08.08-00.02.31:142][905]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Meshes/TheaterBuilding/Material_001_Auto1.uasset
+[2018.08.08-00.02.31:142][905]LogFileHelpers: Auto-saving content packages took 0.022
+[2018.08.08-00.02.45:435][638]LogActorFactory: Actor Factory created TheaterRoom1Prefab
+[2018.08.08-00.02.46:595][777]LogActorFactory: Actor Factory created TheaterRoom1Prefab
+[2018.08.08-00.02.48:631][ 16]LogSlate: Took 0.012847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.08-00.03.09:263][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab)
+[2018.08.08-00.03.16:550][311]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.08.08-00.05.02:985][731]LogMaterial: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2018.08.08-00.05.04:554][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom1Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset" SILENT=true
+[2018.08.08-00.05.04:572][899]LogSavePackage: Save=12.37ms
+[2018.08.08-00.05.04:572][899]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom1Prefab63D2D7C2414759EA1B48D494F4B5CA4D.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset'
+[2018.08.08-00.05.04:574][899]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset
+[2018.08.08-00.06.14:012][469]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.08.08-00.06.21:065][292]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.08.08-00.06.28:533][165]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.08.08-00.06.33:633][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab)
+[2018.08.08-00.06.34:336][802]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.08.08-00.12.31:483][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.08-00.12.31:516][517]LogSavePackage: Save=27.61ms
+[2018.08.08-00.12.31:516][517]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub_Auto2EB40522446B98B969472DFA5FC33C366.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto2.umap'
+[2018.08.08-00.12.31:516][517]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto2.umap
+[2018.08.08-00.12.31:518][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TheaterHub' took 0.045
+[2018.08.08-00.12.31:518][517]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.045
+[2018.08.08-01.04.23:764][679]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.08.08-01.04.23:771][679]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.08.08-01.04.23:796][679]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.08.08-01.04.23:811][679]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.08.08-01.04.23:836][679]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.08.08-01.04.23:847][679]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.08.08-01.04.23:877][679]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.08.08-01.04.23:888][679]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.08.08-01.04.23:899][679]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.08.08-01.04.23:970][679]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.08.08-01.04.23:977][679]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.08.08-01.04.24:043][679]LogMaterial: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2018.08.08-01.04.24:106][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:118][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:129][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:155][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:183][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:194][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:220][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:231][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:268][679]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.08.08-01.04.24:280][679]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.08.08-01.04.24:307][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:318][679]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.08.08-01.04.24:345][679]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.08.08-01.04.24:356][679]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.08.08-01.04.24:381][679]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.08.08-02.02.51:180][773]AssetReimport: New page: Outstanding source content changes 2:02:51 PM
+[2018.08.08-02.02.51:210][773]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal/UnrealProjects/HotSouls/Content/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.hdr)
+[2018.08.08-02.02.56:554][774]LogSavePackage: Save=126.16ms
+[2018.08.08-02.02.56:554][774]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/satara_night_no_lamps_2k8E72D16F4232BBAA122F4E96C3AFF7B9.tmp' to '../../../../../UnrealProjects/HotSouls/Content/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.uasset'
+[2018.08.08-02.02.56:558][774]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.uasset
+[2018.08.08-02.02.59:568][134]AssetReimport: Importing new asset /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.
+[2018.08.08-02.03.48:017][930]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.08-02.03.48:029][930]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.03.48:274][930]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.03.48:367][930]LogSlate: Took 0.030224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.08-02.03.50:534][125]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.08-02.03.50:534][125]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.08-02.03.50:534][125]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.08-02.03.50:534][125]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.08-02.03.58:183][ 16]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.03.58:207][ 16]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.08-02.03.58:218][ 16]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.03.58:218][ 16]LogMaterial: Warning: /Engine/Transient.M_TheaterSky (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.03.58:218][ 16]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.08-02.03.58:249][ 16]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.08-02.03.58:259][ 16]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.08.08-02.04.19:341][481]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.04.19:342][481]LogMaterial: Warning: /Engine/Transient.M_TheaterSky (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.04.19:342][481]LogMaterial: 	(Node TextureSample) Texture Sample> UV input required for cubemap sample
+[2018.08.08-02.04.19:348][481]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.08-02.04.19:372][481]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> UV input required for cubemap sample
+[2018.08.08-02.04.57:989][254]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TheaterHub' took 0.049
+[2018.08.08-02.04.57:990][254]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Materials/SkyMats/M_TheaterSky] ([1] browsable assets)...
+[2018.08.08-02.04.58:005][254]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/Materials/SkyMats/M_TheaterSky.M_TheaterSky]
+[2018.08.08-02.04.58:005][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Materials/SkyMats/M_TheaterSky]
+[2018.08.08-02.04.58:029][254]LogSavePackage: Save=12.63ms
+[2018.08.08-02.04.58:030][254]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/M_TheaterSky_Auto31A6B78C74E14C0A2C07C7EA1B01B3E29.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Environment/Materials/SkyMats/M_TheaterSky_Auto3.uasset'
+[2018.08.08-02.04.58:030][254]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Environment/Materials/SkyMats/M_TheaterSky_Auto3.uasset
+[2018.08.08-02.04.58:030][254]LogFileHelpers: Auto-saving content packages took 0.041
+[2018.08.08-02.05.44:794][597]LogMaterialEditor: Saving and Compiling material M_TheaterSky
+[2018.08.08-02.05.49:047][597]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.05.49:047][597]LogMaterial: Warning: /Engine/Transient.M_TheaterSky (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.05.49:047][597]LogMaterial: 	(Node TextureSample) Texture Sample> UV input required for cubemap sample
+[2018.08.08-02.05.49:061][597]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.05.49:061][597]LogMaterial: Warning: /Game/Environment/Materials/SkyMats/M_TheaterSky.M_TheaterSky (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.05.49:062][597]LogMaterial: 	(Node TextureSample) Texture Sample> UV input required for cubemap sample
+[2018.08.08-02.05.49:064][597]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.05.49:064][597]LogMaterial: Warning: /Game/Environment/Materials/SkyMats/M_TheaterSky.M_TheaterSky (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.05.49:064][597]LogMaterial: 	(Node TextureSample) Texture Sample> UV input required for cubemap sample
+[2018.08.08-02.05.49:086][597]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TheaterSky, compiling. 
+[2018.08.08-02.05.49:091][597]TextureStreamingBuild: Display: Compiling optional shaders took 0.016 seconds.
+[2018.08.08-02.05.49:129][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Materials/SkyMats/M_TheaterSky" FILE="../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset" SILENT=true
+[2018.08.08-02.05.49:145][597]LogSavePackage: Save=15.33ms
+[2018.08.08-02.05.49:145][597]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/M_TheaterSkyA5243E2243B50A480704A4A5EB205E93.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset'
+[2018.08.08-02.05.49:147][597]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset
+[2018.08.08-02.06.46:092][310]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.08-02.07.26:070][361]LogTexture: Display: Building textures: satara_night_no_lamps_2k (RGBA16F, 2048X1024)
+[2018.08.08-02.08.47:243][994]LogTexture: Display: Building textures: satara_night_no_lamps_2k (RGBA16F, 2048X1024)
+[2018.08.08-02.12.37:276][865]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.12.37:276][865]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.12.37:276][865]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.12.37:343][865]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.12.37:343][865]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.12.37:343][865]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.12.37:345][865]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.12.37:345][865]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.12.37:345][865]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.12.37:375][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.08-02.12.37:376][865]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.12.48:282][156]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.12.48:283][156]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.12.48:283][156]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.12.48:288][156]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.12.48:289][156]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.12.48:289][156]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.12.51:771][569]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.12.51:772][569]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.12.51:772][569]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.12.51:773][569]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.12.51:774][569]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.12.51:774][569]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.13.24:808][135]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.13.24:809][135]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.13.24:809][135]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.13.24:810][135]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.13.24:810][135]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.13.24:810][135]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.13.24:841][135]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.08-02.13.31:247][885]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.13.31:247][885]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.13.31:247][885]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.13.31:248][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.08.08-02.13.31:255][885]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.13.31:255][885]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.13.31:255][885]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.13.31:282][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.08.08-02.14.07:928][508]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.14.07:928][508]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.14.07:928][508]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.14.24:884][530]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.14.24:884][530]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.14.24:884][530]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.14.24:886][530]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.14.24:886][530]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.14.24:886][530]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.14.26:581][730]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.14.26:582][730]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.14.26:582][730]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.14.58:599][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TheaterHub' took 0.011
+[2018.08.08-02.14.58:601][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k] ([1] browsable assets)...
+[2018.08.08-02.14.58:606][938]OBJ SavePackage:     Rendered thumbnail for [TextureCube /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k]
+[2018.08.08-02.14.58:606][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k]
+[2018.08.08-02.14.58:757][938]LogSavePackage: Save=125.59ms
+[2018.08.08-02.14.58:757][938]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/satara_night_no_lamps_2k_Auto4014547FB4C1820CCA6F06EAC32B5DF62.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k_Auto4.uasset'
+[2018.08.08-02.14.58:758][938]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k_Auto4.uasset
+[2018.08.08-02.14.58:758][938]LogFileHelpers: Auto-saving content packages took 0.158
+[2018.08.08-02.16.02:487][320]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.16.02:487][320]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.16.02:487][320]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.16.02:489][320]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.08-02.16.02:493][320]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.16.02:493][320]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.16.02:493][320]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.16.02:520][320]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.08-02.16.39:060][738]LogMaterialEditor: Saving and Compiling material M_TheaterSky
+[2018.08.08-02.16.46:055][738]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.16.46:055][738]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.16.46:055][738]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.16.46:085][738]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.16.46:085][738]LogMaterial: Warning: D:\Unreal\UnrealProjects\HotSouls\Content\Environment\Materials\SkyMats\M_TheaterSky.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.16.46:085][738]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.16.46:087][738]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.16.46:087][738]LogMaterial: Warning: D:\Unreal\UnrealProjects\HotSouls\Content\Environment\Materials\SkyMats\M_TheaterSky.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.16.46:087][738]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.satara_night_no_lamps_2k
+[2018.08.08-02.16.46:100][738]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TheaterSky, compiling. 
+[2018.08.08-02.16.46:100][738]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2018.08.08-02.16.46:135][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Materials/SkyMats/M_TheaterSky" FILE="../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset" SILENT=true
+[2018.08.08-02.16.46:162][738]LogSavePackage: Save=18.90ms
+[2018.08.08-02.16.46:162][738]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/M_TheaterSky6C819C2147323E32B4C9269497A7E78E.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset'
+[2018.08.08-02.16.46:163][738]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset
+[2018.08.08-02.50.35:239][760]AssetReimport: New page: Outstanding source content changes 2:50:35 PM
+[2018.08.08-02.50.35:333][760]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.png]
+[2018.08.08-02.50.35:338][760]LogFactory: FactoryCreateFile: TextureCube with ReimportTextureFactory (0 0 D:/Unreal/UnrealProjects/HotSouls/Content/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.png)
+[2018.08.08-02.50.47:736][108]AssetReimport: Reimported asset satara_night_no_lamps_2k from D:/Unreal/UnrealProjects/HotSouls/Content/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.png.
+[2018.08.08-02.51.21:762][149]LogSavePackage: Save=142.70ms
+[2018.08.08-02.51.21:762][149]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/satara_night_no_lamps_2k1DE51B2B41FFDF26716FC69A2303E695.tmp' to '../../../../../UnrealProjects/HotSouls/Content/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.uasset'
+[2018.08.08-02.51.21:766][149]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/EnvironmentTextures/NightHDRI/satara_night_no_lamps_2k.uasset
+[2018.08.08-02.51.40:919][258]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.51.40:919][258]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.08-02.51.40:919][258]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.08-02.51.40:928][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.08-02.51.41:045][268]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.08.08-02.51.48:034][ 92]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.51.48:050][ 92]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.08-02.51.48:909][187]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.08.08-02.51.48:909][187]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.08.08-02.51.48:909][187]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.08-02.51.51:501][493]LogMaterialEditor: Saving and Compiling material M_TheaterSky
+[2018.08.08-02.51.51:824][493]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.08-02.51.51:858][493]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.51.51:873][493]LogMaterial: Missing cached shader map for material M_TheaterSky, compiling. 
+[2018.08.08-02.51.51:895][493]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TheaterSky, compiling. 
+[2018.08.08-02.51.52:095][493]TextureStreamingBuild: Display: Compiling optional shaders took 0.204 seconds.
+[2018.08.08-02.51.52:922][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Materials/SkyMats/M_TheaterSky" FILE="../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset" SILENT=true
+[2018.08.08-02.51.52:943][493]LogSavePackage: Save=12.25ms
+[2018.08.08-02.51.52:943][493]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/M_TheaterSkyEADBCB474F8B218149ADF79184B19897.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset'
+[2018.08.08-02.51.52:944][493]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/M_TheaterSky.uasset
+[2018.08.08-02.51.52:950][493]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.08.08-02.51.52:950][493]MaterialEditorStats: Vertex shader: 35 instructions
+[2018.08.08-02.51.52:950][493]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.08-02.52.36:817][183]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.08-02.52.36:840][183]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.08.08-02.54.51:151][655]LogClass: Warning: Enum '/Game/LensFlares/Blueprints/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.08.08-02.54.51:228][655]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.08.08-02.54.52:123][655]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.08.08-02.56.20:921][172]BlueprintLog: New page: Compile BP_SkySphereTheater
+[2018.08.08-02.56.27:004][756]LogSavePackage: Save=29.41ms
+[2018.08.08-02.56.27:004][756]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/BP_SkySphereTheater73043D304A1C5FDAFEEE668EEAD98FCB.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/BP_SkySphereTheater.uasset'
+[2018.08.08-02.56.27:005][756]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Environment/Materials/SkyMats/BP_SkySphereTheater.uasset
+[2018.08.08-02.57.37:604][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.08-02.57.37:757][281]LogSavePackage: Save=148.53ms
+[2018.08.08-02.57.37:757][281]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub_Auto556DC24104F18FC25E6CC82A671AAFD91.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto5.umap'
+[2018.08.08-02.57.37:758][281]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto5.umap
+[2018.08.08-02.57.37:764][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TheaterHub' took 0.177
+[2018.08.08-02.57.37:764][281]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.177
+[2018.08.08-03.55.39:114][911]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Unreal/Epic Games/UE_4.18/FeaturePacks/FP_FirstPerson.upack)
+[2018.08.08-03.55.39:298][911]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.08.08-03.55.39:318][911]LogPackFactory: Copied "../../../Templates/FP_FirstPerson/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset" to "../../../../../UnrealProjects/HotSouls/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset"
+[2018.08.08-03.55.39:461][911]LogPackFactory: Copied "../../../Templates/FP_FirstPerson/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" to "../../../../../UnrealProjects/HotSouls/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap"
+[2018.08.08-03.55.39:507][911]Running D:/Unreal/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal/UnrealProjects/HotSouls/HotPotatoSimulator.uproject" -game -rocket -progress
+[2018.08.08-03.55.39:895][911]Discovering modules, targets and source code for project...
+[2018.08.08-03.55.46:768][911]LogHotReload: Recompiling module HotPotatoSimulator...
+[2018.08.08-03.55.46:770][911]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.08-03.55.46:916][911]Candidate modules for hot reload:
+[2018.08.08-03.55.46:916][911]  HotPotatoSimulator
+[2018.08.08-03.55.46:936][911]Launching UnrealBuildTool... [D:/Unreal/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe HotPotatoSimulator -Module HotPotatoSimulator Win64 Development -editorrecompile -canskiplink "D:/Unreal/UnrealProjects/HotSouls/HotPotatoSimulator.uproject" ]
+[2018.08.08-03.57.07:325][911]Performing full C++ include scan (hot reloading a new target)
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for hot reloading HotPotatoSimulator (no existing makefile)
+Compiling game modules for hot reload
+Parsing headers for HotPotatoSimulatorEditor
+  Running UnrealHeaderTool "D:\Unreal\UnrealProjects\HotSouls\HotPotatoSimulator.uproject" "D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\HotPotatoSimulatorEditor\Development\HotPotatoSimulatorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for HotPotatoSimulatorEditor in 7.0949826 seconds
+Performing 13 actions (4 in parallel)
+[2/13] Resource ModuleVersionResource.rc.inl
+[3/13] Resource PCLaunch.rc
+SharedPCH.Engine.cpp
+FP_FirstPersonGameMode.cpp
+FP_FirstPersonHUD.cpp
+FP_FirstPersonCharacter.cpp
+HotPotatoSimulator.cpp
+FP_FirstPersonCharacter.gen.cpp
+FP_FirstPersonGameMode.gen.cpp
+FP_FirstPersonHUD.gen.cpp
+HotPotatoSimulator.init.gen.cpp
+[12/13] Link UE4Editor-HotPotatoSimulator.dll
+[13/13] Link UE4Editor-HotPotatoSimulator.lib
+   Creating library D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.lib and object D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.exp
+   Creating library D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.suppressed.lib and object D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.suppressed.exp
+Total build time: 80.26 seconds (Local executor: 22.37 seconds)
+
+[2018.08.08-03.57.07:389][911]CompilerResultsLog: New page: Compilation - Aug 7, 2018, 3:57:07 PM
+[2018.08.08-03.57.07:391][911]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.08.08-03.57.07:391][911]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.08.08-03.57.07:391][911]CompilerResultsLog: Creating makefile for hot reloading HotPotatoSimulator (no existing makefile)
+[2018.08.08-03.57.07:391][911]CompilerResultsLog: Compiling game modules for hot reload
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: Parsing headers for HotPotatoSimulatorEditor
+[2018.08.08-03.57.07:392][911]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\UnrealProjects\HotSouls\HotPotatoSimulator.uproject" "D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\HotPotatoSimulatorEditor\Development\HotPotatoSimulatorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: Reflection code generated for HotPotatoSimulatorEditor in 7.0949826 seconds
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: Performing 13 actions (4 in parallel)
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: [2/13] Resource ModuleVersionResource.rc.inl
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: [3/13] Resource PCLaunch.rc
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: SharedPCH.Engine.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: FP_FirstPersonGameMode.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: FP_FirstPersonHUD.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: FP_FirstPersonCharacter.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: HotPotatoSimulator.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: FP_FirstPersonCharacter.gen.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: FP_FirstPersonGameMode.gen.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: FP_FirstPersonHUD.gen.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: HotPotatoSimulator.init.gen.cpp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: [12/13] Link UE4Editor-HotPotatoSimulator.dll
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: [13/13] Link UE4Editor-HotPotatoSimulator.lib
+[2018.08.08-03.57.07:392][911]CompilerResultsLog:    Creating library D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.lib and object D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.exp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog:    Creating library D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.suppressed.lib and object D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.suppressed.exp
+[2018.08.08-03.57.07:392][911]CompilerResultsLog: Total build time: 80.26 seconds (Local executor: 22.37 seconds)
+[2018.08.08-03.57.07:392][911]LogMainFrame: MainFrame: Module compiling took 80.612 seconds
+[2018.08.08-03.57.07:392][911]Reloading module HotPotatoSimulator after successful compile.
+[2018.08.08-03.57.10:808][911]LogClass: Could not find existing package /Script/HotPotatoSimulator for HotReload of class FP_FirstPersonCharacter, assuming a new package.
+[2018.08.08-03.57.10:808][911]LogClass: Could not find existing package /Script/HotPotatoSimulator for HotReload of class FP_FirstPersonGameMode, assuming a new package.
+[2018.08.08-03.57.10:808][911]LogClass: Could not find existing package /Script/HotPotatoSimulator for HotReload of class FP_FirstPersonHUD, assuming a new package.
+[2018.08.08-03.57.11:077][911]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.08.08-03.57.11:210][911]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.08.08-03.57.11:345][911]LogContentBrowser: Native class hierarchy updated for 'HotPotatoSimulator' in 0.0004 seconds. Added 3 classes and 3 folders.
+[2018.08.08-03.57.11:606][911]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2348 classes and 502 folders.
+[2018.08.08-03.57.15:496][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter" FILE="../../../../../UnrealProjects/HotSouls/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2018.08.08-03.57.15:589][911]LogSavePackage: Save=86.92ms
+[2018.08.08-03.57.15:589][911]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/FirstPersonCharacter75C12F9641F19F5148D9188477FF4DAF.tmp' to '../../../../../UnrealProjects/HotSouls/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.08.08-03.57.15:594][911]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.08.08-03.57.15:603][911]LogLinker: Warning: Can't find file '/Game/FirstPersonCPP/FirstPersonOverview'
+[2018.08.08-03.57.15:604][911]LogLinker: Warning: Can't find file '/Game/FirstPersonCPP/FirstPersonOverview'
+[2018.08.08-03.57.15:604][911]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonCPP/FirstPersonOverview.FirstPersonOverview'
+[2018.08.08-03.57.38:963][244]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.08-04.02.15:344][ 29]LogWindows: LaunchFileInExternalEditor D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPerson.h 
+[2018.08.08-04.02.15:413][ 29]LogWindows: Launch application code for D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPerson.h : 42
+[2018.08.08-04.02.15:413][ 29]LogWindows: LaunchFileInExternalEditor D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonGameMode.cpp 
+[2018.08.08-04.02.15:460][ 29]LogWindows: Launch application code for D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonGameMode.cpp : 42
+[2018.08.08-04.02.15:460][ 29]LogWindows: LaunchFileInExternalEditor D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonGameMode.h 
+[2018.08.08-04.02.15:500][ 29]LogWindows: Launch application code for D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonGameMode.h : 42
+[2018.08.08-04.02.15:500][ 29]LogWindows: LaunchFileInExternalEditor D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonHUD.cpp 
+[2018.08.08-04.02.15:561][ 29]LogWindows: Launch application code for D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonHUD.cpp : 42
+[2018.08.08-04.02.15:561][ 29]LogWindows: LaunchFileInExternalEditor D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonHUD.h 
+[2018.08.08-04.02.15:608][ 29]LogWindows: Launch application code for D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonHUD.h : 42
+[2018.08.08-04.02.15:608][ 29]LogWindows: LaunchFileInExternalEditor D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonCharacter.cpp 
+[2018.08.08-04.02.15:656][ 29]LogWindows: Launch application code for D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonCharacter.cpp : 42
+[2018.08.08-04.02.15:656][ 29]LogWindows: LaunchFileInExternalEditor D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonCharacter.h 
+[2018.08.08-04.02.15:708][ 29]LogWindows: Launch application code for D:/Unreal/UnrealProjects/HotSouls/Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonCharacter.h : 42
+[2018.08.08-04.02.15:709][ 29]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.08-04.02.15:713][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:713][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:713][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:713][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:713][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:713][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:713][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:713][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:714][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:715][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:716][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:717][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:718][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:719][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:720][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:725][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:737][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:752][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.02.15:792][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.08-04.04.36:315][318]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.HotPotatoSimulator
+[2018.08.08-04.04.36:315][318]LogTemp: CWD: D:\Unreal\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.08.08-04.04.36:315][318]LogTemp: Initial Dir: D:\Unreal\Epic Games\UE_4.18
+[2018.08.08-04.04.36:315][318]LogTemp: Env CWD: D:\Unreal\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.08.08-04.04.36:315][318]LogTemp: BranchPath = DESKTOP-02FN524/D/Unreal/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-02FN524/D/Unreal/Epic Games/UE_4.18/Engine/Binaries
+[2018.08.08-04.04.36:315][318]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ajaco\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.08-04.04.36:315][318]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.08-04.09.29:993][294]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.08.08-04.10.03:560][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.08-04.10.03:742][303]LogSavePackage: Save=124.39ms
+[2018.08.08-04.10.03:742][303]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub261C062D44873C6AE72D0CA067378431.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap'
+[2018.08.08-04.10.03:745][303]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap
+[2018.08.08-06.02.07:237][827]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.08.08-06.02.07:888][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab)
+[2018.08.08-06.02.09:143][ 40]Cmd: EDIT CUT
+[2018.08.08-06.02.09:229][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.08-06.02.09:323][ 40]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2018.08.08-06.02.10:463][174]Cmd: TRANSACTION UNDO
+[2018.08.08-06.02.10:463][174]LogEditorTransaction: Undo Cut
+[2018.08.08-06.02.11:669][313]Cmd: EDIT COPY
+[2018.08.08-06.02.12:179][374]Cmd: EDIT PASTE
+[2018.08.08-06.02.19:566][227]LogEditorViewport: Clicking on Actor (LMB): BP_SkySphereTheater_C (BP_SkySphereTheater)
+[2018.08.08-06.03.11:458][410]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.08.08-06.03.15:525][854]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2018.08.08-06.03.18:351][186]Cmd: EDIT COPY
+[2018.08.08-06.03.18:552][210]Cmd: EDIT PASTE
+[2018.08.08-06.03.31:212][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab2)
+[2018.08.08-06.03.34:366][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab)
+[2018.08.08-06.03.35:259][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab2)
+[2018.08.08-06.03.36:419][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab)
+[2018.08.08-06.03.37:329][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab2)
+[2018.08.08-06.03.51:577][ 64]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2018.08.08-06.03.52:559][178]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2018.08.08-06.04.24:154][455]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TheaterRoom1Prefab2)
+[2018.08.08-06.04.26:654][747]Cmd: EDIT COPY
+[2018.08.08-06.04.27:146][806]Cmd: EDIT PASTE
+[2018.08.08-06.04.34:540][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab3)
+[2018.08.08-06.04.46:322][ 63]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2018.08.08-06.04.47:702][225]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight5)
+[2018.08.08-06.05.58:475][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab3)
+[2018.08.08-06.05.59:677][774]Cmd: EDIT COPY
+[2018.08.08-06.05.59:970][809]Cmd: EDIT PASTE
+[2018.08.08-06.06.20:224][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab3)
+[2018.08.08-06.06.21:160][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab4)
+[2018.08.08-06.06.30:853][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab)
+[2018.08.08-06.06.32:483][622]Cmd: EDIT COPY
+[2018.08.08-06.06.32:660][643]Cmd: EDIT PASTE
+[2018.08.08-06.06.38:839][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab4)
+[2018.08.08-06.06.41:940][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab5)
+[2018.08.08-06.07.59:257][732]Cmd: TRANSACTION UNDO
+[2018.08.08-06.07.59:257][732]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2018.08.08-06.09.18:810][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.08-06.09.18:953][167]LogSavePackage: Save=137.09ms
+[2018.08.08-06.09.18:953][167]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub_Auto643C7A0D848BDCADDCE3CAE8A43AC2E23.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto6.umap'
+[2018.08.08-06.09.18:953][167]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto6.umap
+[2018.08.08-06.09.18:955][167]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TheaterHub' took 0.160
+[2018.08.08-06.09.18:955][167]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.160
+[2018.08.08-06.12.31:680][917]AssetReimport: New page: Outstanding source content changes 6:12:31 PM
+[2018.08.08-06.12.31:704][917]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx)
+[2018.08.08-06.12.31:707][917]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.08-06.12.31:707][917]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.08.08-06.12.31:707][917]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.08-06.12.31:707][917]LogFbx: ItemName: Model, ItemCount : 3
+[2018.08.08-06.12.31:707][917]LogFbx: ItemName: Material, ItemCount : 1
+[2018.08.08-06.12.31:711][917]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.12.31:716][917]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.12.37:805][917]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.12.37:811][917]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.12.37:815][917]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.12.37:836][917]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.12.37:894][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.12.37:907][918]LogSavePackage: Save=11.54ms
+[2018.08.08-06.12.37:907][918]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2PrefabCE9C4A744A33C67F8937F7B13525BDA4.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.12.37:908][918]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.12.40:917][269]AssetReimport: Importing new asset /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.
+[2018.08.08-06.13.21:174][ 66]Cmd: TRANSACTION UNDO
+[2018.08.08-06.13.21:174][ 66]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2018.08.08-06.13.37:800][968]Cmd: TRANSACTION UNDO
+[2018.08.08-06.13.37:800][968]LogEditorTransaction: Undo Move Actors
+[2018.08.08-06.13.41:135][366]Cmd: TRANSACTION REDO
+[2018.08.08-06.13.41:135][366]LogEditorTransaction: Redo Move Actors
+[2018.08.08-06.14.40:009][224]Cmd: TRANSACTION UNDO
+[2018.08.08-06.14.40:009][224]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2018.08.08-06.15.24:131][491]Cmd: TRANSACTION UNDO
+[2018.08.08-06.15.24:131][491]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2018.08.08-06.16.23:017][253]AssetReimport: New page: Outstanding source content changes 6:16:23 PM
+[2018.08.08-06.16.23:045][253]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.16.23:051][253]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.16.23:057][253]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.16.23:094][253]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.16.23:115][253]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.16.23:135][253]LogEditorFactories: -- imported successfully
+[2018.08.08-06.16.23:241][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.16.23:258][254]LogSavePackage: Save=12.29ms
+[2018.08.08-06.16.23:258][254]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab16D4C9484848B435556A49BC67C25D9F.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.16.23:259][254]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.16.25:916][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.16.25:923][556]LogSavePackage: Save=5.51ms
+[2018.08.08-06.16.25:923][556]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab42E00CD14B0B48F0B9C3979317D06441.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.16.25:924][556]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.16.26:271][596]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.16.30:999][151]LogActorFactory: Actor Factory created TheaterRoom2Prefab
+[2018.08.08-06.16.33:228][418]LogActorFactory: Actor Factory created TheaterRoom2Prefab
+[2018.08.08-06.17.24:796][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab2)
+[2018.08.08-06.17.26:616][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.17.33:867][475]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.08.08-06.17.36:112][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.17.36:743][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab4)
+[2018.08.08-06.17.41:872][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.19.26:092][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.08-06.19.26:256][338]LogSavePackage: Save=156.70ms
+[2018.08.08-06.19.26:256][338]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub_Auto71DE05B0C4BE7CE89F4A27C9375E4113A.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto7.umap'
+[2018.08.08-06.19.26:256][338]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto7.umap
+[2018.08.08-06.19.26:258][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TheaterHub' took 0.185
+[2018.08.08-06.19.26:258][338]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2018.08.08-06.23.46:398][993]AssetReimport: New page: Outstanding source content changes 6:23:46 PM
+[2018.08.08-06.23.46:399][993]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.fbx]
+[2018.08.08-06.23.46:406][993]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.fbx
+[2018.08.08-06.23.46:411][993]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.23.46:435][993]LogStaticMesh: Building static mesh TheaterRoom1Prefab...
+[2018.08.08-06.23.46:612][993]LogStaticMesh: Built static mesh [0.18s] /Game/Meshes/TheaterBuilding/TheaterRoom1Prefab.TheaterRoom1Prefab
+[2018.08.08-06.23.46:621][993]LogEditorFactories: -- imported successfully
+[2018.08.08-06.23.46:680][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom1Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset" SILENT=true
+[2018.08.08-06.23.46:705][994]LogSavePackage: Save=15.54ms
+[2018.08.08-06.23.46:705][994]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom1Prefab8EDBC42A489993C670E82F9CCCC293F1.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset'
+[2018.08.08-06.23.46:706][994]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.uasset
+[2018.08.08-06.23.50:032][264]AssetReimport: Reimported asset TheaterRoom1Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom1Prefab.fbx.
+[2018.08.08-06.24.01:021][595]AssetReimport: New page: Outstanding source content changes 6:24:01 PM
+[2018.08.08-06.24.01:022][595]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.24.01:027][595]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.24.01:033][595]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.24.01:037][595]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.24.01:058][595]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.24.01:062][595]LogEditorFactories: -- imported successfully
+[2018.08.08-06.24.01:097][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.24.01:114][596]LogSavePackage: Save=12.03ms
+[2018.08.08-06.24.01:114][596]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab3207231C448252C99A105CB61E24D5D2.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.24.01:115][596]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.24.04:124][948]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.24.09:857][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.08-06.24.10:011][ 73]LogSavePackage: Save=135.56ms
+[2018.08.08-06.24.10:011][ 73]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub714D7B694D086DFA84B9B5B9FFA90B07.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap'
+[2018.08.08-06.24.10:013][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap
+[2018.08.08-06.24.10:037][ 73]LogFileHelpers: Saving map 'TheaterHub' took 4.842
+[2018.08.08-06.24.10:054][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/Material_001" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/Material_001.uasset" SILENT=true
+[2018.08.08-06.24.10:066][ 73]LogSavePackage: Save=11.40ms
+[2018.08.08-06.24.10:067][ 73]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/Material_0018A24BBB54F7DBE99C57977B3198461FC.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/Material_001.uasset'
+[2018.08.08-06.24.10:070][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/Material_001.uasset
+[2018.08.08-06.25.43:843][550]AssetReimport: New page: Outstanding source content changes 6:25:43 PM
+[2018.08.08-06.25.43:844][550]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.25.43:849][550]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.25.43:855][550]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.25.43:859][550]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.25.43:880][550]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.25.43:884][550]LogEditorFactories: -- imported successfully
+[2018.08.08-06.25.43:918][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.25.43:932][551]LogSavePackage: Save=11.70ms
+[2018.08.08-06.25.43:932][551]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab35D55F974FAE5213B85F0FA9619870B5.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.25.43:934][551]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.25.46:944][903]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.26.28:996][205]AssetReimport: New page: Outstanding source content changes 6:26:28 PM
+[2018.08.08-06.26.28:997][205]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.26.29:003][205]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.26.29:008][205]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.26.29:012][205]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.26.29:033][205]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.26.29:037][205]LogEditorFactories: -- imported successfully
+[2018.08.08-06.26.29:071][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.26.29:085][206]LogSavePackage: Save=11.68ms
+[2018.08.08-06.26.29:085][206]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab72E19D4B4A0F642ABEC8BF9329EC50A1.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.26.29:086][206]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.26.32:092][561]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.26.47:822][181]AssetReimport: New page: Outstanding source content changes 6:26:47 PM
+[2018.08.08-06.26.47:823][181]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.26.47:828][181]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.26.47:834][181]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.26.47:838][181]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.26.47:859][181]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.26.47:862][181]LogEditorFactories: -- imported successfully
+[2018.08.08-06.26.47:897][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.26.47:911][182]LogSavePackage: Save=12.16ms
+[2018.08.08-06.26.47:912][182]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab68373C024910F1BEDFE90CB23121805D.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.26.47:913][182]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.26.50:919][537]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.27.10:440][691]AssetReimport: New page: Outstanding source content changes 6:27:10 PM
+[2018.08.08-06.27.10:441][691]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.27.10:447][691]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.27.10:452][691]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.27.10:456][691]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.27.10:477][691]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.27.10:480][691]LogEditorFactories: -- imported successfully
+[2018.08.08-06.27.10:515][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.27.10:530][692]LogSavePackage: Save=12.32ms
+[2018.08.08-06.27.10:530][692]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab7649AE8047C0D9993ABF88A38E226E62.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.27.10:531][692]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.27.13:539][ 40]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.27.29:979][515]AssetReimport: New page: Outstanding source content changes 6:27:29 PM
+[2018.08.08-06.27.29:979][515]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.27.29:985][515]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.27.29:990][515]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.27.29:994][515]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.27.30:015][515]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.27.30:019][515]LogEditorFactories: -- imported successfully
+[2018.08.08-06.27.30:054][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.27.30:068][516]LogSavePackage: Save=12.12ms
+[2018.08.08-06.27.30:068][516]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2PrefabBC5660FA419AEA0C231C0AAC8D56E723.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.27.30:070][516]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.27.33:075][872]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.27.55:678][660]AssetReimport: New page: Outstanding source content changes 6:27:55 PM
+[2018.08.08-06.27.55:678][660]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.27.55:684][660]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.27.55:689][660]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.27.55:694][660]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.27.55:715][660]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.27.55:719][660]LogEditorFactories: -- imported successfully
+[2018.08.08-06.27.55:753][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.27.55:767][661]LogSavePackage: Save=12.30ms
+[2018.08.08-06.27.55:768][661]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab369FA16C404D94AAEBB29AB355851154.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.27.55:769][661]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.27.58:779][ 16]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.28.40:385][461]AssetReimport: New page: Outstanding source content changes 6:28:40 PM
+[2018.08.08-06.28.40:386][461]LogEditorFactories: Performing atomic reimport of [D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx]
+[2018.08.08-06.28.40:392][461]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx
+[2018.08.08-06.28.40:397][461]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.28.40:401][461]LogStaticMesh: Building static mesh TheaterRoom2Prefab...
+[2018.08.08-06.28.40:422][461]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TheaterBuilding/TheaterRoom2Prefab.TheaterRoom2Prefab
+[2018.08.08-06.28.40:426][461]LogEditorFactories: -- imported successfully
+[2018.08.08-06.28.40:462][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom2Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset" SILENT=true
+[2018.08.08-06.28.40:477][462]LogSavePackage: Save=12.76ms
+[2018.08.08-06.28.40:477][462]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom2Prefab5FAE83934A4B75A7AD2283B51E6B18F6.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset'
+[2018.08.08-06.28.40:478][462]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.uasset
+[2018.08.08-06.28.43:484][812]AssetReimport: Reimported asset TheaterRoom2Prefab from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom2Prefab.fbx.
+[2018.08.08-06.29.50:005][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.29.51:310][820]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2018.08.08-06.30.25:087][848]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2018.08.08-06.30.30:564][477]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2018.08.08-06.30.32:391][692]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.08.08-06.38.43:378][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.08-06.38.43:405][115]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.08-06.38.43:650][115]LogSavePackage: Save=266.61ms
+[2018.08.08-06.38.43:650][115]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHub_Auto86370180949CB8835942FFE8C32570366.tmp' to '../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto8.umap'
+[2018.08.08-06.38.43:651][115]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Saved/Autosaves/Game/Maps/TheaterHub_Auto8.umap
+[2018.08.08-06.38.43:652][115]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TheaterHub' took 0.292
+[2018.08.08-06.38.43:652][115]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.292
+[2018.08.08-06.40.23:648][749]AssetReimport: New page: Outstanding source content changes 6:40:23 PM
+[2018.08.08-06.40.23:649][749]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom3Prefab.fbx)
+[2018.08.08-06.40.23:651][749]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.08-06.40.23:651][749]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.08.08-06.40.23:651][749]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.08-06.40.23:651][749]LogFbx: ItemName: Model, ItemCount : 3
+[2018.08.08-06.40.23:651][749]LogFbx: ItemName: Material, ItemCount : 1
+[2018.08.08-06.40.23:655][749]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom3Prefab.fbx
+[2018.08.08-06.40.23:660][749]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.40.27:702][749]LogFbx: Loading FBX Scene from D:/Unreal/UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom3Prefab.fbx
+[2018.08.08-06.40.27:707][749]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.08-06.40.27:710][749]LogStaticMesh: Building static mesh TheaterRoom3Prefab...
+[2018.08.08-06.40.27:723][749]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/TheaterBuilding/TheaterRoom3Prefab.TheaterRoom3Prefab
+[2018.08.08-06.40.27:778][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TheaterBuilding/TheaterRoom3Prefab" FILE="../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom3Prefab.uasset" SILENT=true
+[2018.08.08-06.40.27:792][750]LogSavePackage: Save=11.85ms
+[2018.08.08-06.40.27:792][750]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterRoom3PrefabF1F20773406FE7E11632E0A8E4BBD645.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom3Prefab.uasset'
+[2018.08.08-06.40.27:793][750]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Meshes/TheaterBuilding/TheaterRoom3Prefab.uasset
+[2018.08.08-06.40.30:802][106]AssetReimport: Importing new asset /Game/Meshes/TheaterBuilding/TheaterRoom3Prefab.
+[2018.08.08-06.40.39:359][ 71]LogActorFactory: Actor Factory created TheaterRoom3Prefab
+[2018.08.08-06.40.42:664][466]LogActorFactory: Actor Factory created TheaterRoom3Prefab
+[2018.08.08-06.40.47:695][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom3Prefab)
+[2018.08.08-06.40.48:294][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.40.52:663][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom3Prefab)
+[2018.08.08-06.41.04:363][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.41.05:984][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom3Prefab)
+[2018.08.08-06.41.20:573][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab2)
+[2018.08.08-06.41.24:853][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab3)
+[2018.08.08-06.41.26:516][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom3Prefab)
+[2018.08.08-06.42.28:122][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab5)
+[2018.08.08-06.42.29:247][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab3)
+[2018.08.08-06.42.30:293][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab2)
+[2018.08.08-06.42.40:287][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.42.41:695][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab4)
+[2018.08.08-06.42.42:775][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.42.57:500][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom3Prefab)
+[2018.08.08-06.43.01:843][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom1Prefab4)
+[2018.08.08-06.43.03:031][908]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.43.03:652][977]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TheaterRoom1Prefab5)
+[2018.08.08-06.43.05:752][192]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TheaterRoom2Prefab)
+[2018.08.08-06.43.19:786][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom3Prefab)
+[2018.08.08-06.43.20:638][881]Cmd: EDIT CUT
+[2018.08.08-06.43.20:645][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.08-06.43.20:661][881]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.08.08-06.43.22:262][ 73]Cmd: TRANSACTION UNDO
+[2018.08.08-06.43.22:262][ 73]LogEditorTransaction: Undo Cut
+[2018.08.08-06.43.23:291][190]Cmd: EDIT COPY
+[2018.08.08-06.43.23:510][216]Cmd: EDIT PASTE
+[2018.08.08-06.43.37:487][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheaterRoom3Prefab)
+[2018.08.08-06.43.41:739][348]Cmd: EDIT COPY
+[2018.08.08-06.43.41:949][373]Cmd: EDIT PASTE
+[2018.08.08-06.45.30:168][ 95]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.08.08-06.45.37:339][930]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.08.08-06.45.38:042][  9]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.08.08-06.50.57:646][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TheaterHub" FILE="../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.08-06.50.57:687][223]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.08-06.50.57:880][223]LogSavePackage: Save=213.99ms
+[2018.08.08-06.50.57:880][223]LogSavePackage: Moving '../../../../../UnrealProjects/HotSouls/Saved/TheaterHubB3D5CB854922D921F70A3DAA30DD482E.tmp' to '../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap'
+[2018.08.08-06.50.57:881][223]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/HotSouls/Content/Maps/TheaterHub.umap
+[2018.08.08-06.50.57:909][223]LogFileHelpers: Saving map 'TheaterHub' took 0.338
+[2018.08.08-06.51.04:242][924]Cmd: QUIT_EDITOR
+[2018.08.08-06.51.04:516][924]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.08-06.51.04:583][924]LogExit: Preparing to exit.
+[2018.08.08-06.51.05:420][924]LogDirectoryWatcher: A directory notification for 'D:/Unreal/UnrealProjects/HotSouls/Content/' was aborted.
+[2018.08.08-06.51.05:519][924]LogExit: Editor shut down
+[2018.08.08-06.51.05:522][924]LogExit: Transaction tracking system shut down
+[2018.08.08-06.51.05:809][924]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.08-06.51.05:810][924]LogDirectoryWatcher: A directory notification for '../../../../../UnrealProjects/HotSouls/Content/' was aborted.
+[2018.08.08-06.51.05:810][924]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.08-06.51.05:810][924]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.08-06.51.06:738][924]LogExit: Object subsystem successfully closed.
+[2018.08.08-06.51.06:870][924]LogD3D11RHI: Shutdown
+[2018.08.08-06.51.06:882][924]LogD3D11RHI: CleanupD3DDevice
+[2018.08.08-06.51.06:905][924]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.08-06.51.07:742][924]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (537)
+[2018.08.08-06.51.07:742][924]LogModuleManager: Shutting down and abandoning module HotPotatoSimulator (535)
+[2018.08.08-06.51.07:742][924]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (533)
+[2018.08.08-06.51.07:742][924]LogModuleManager: Shutting down and abandoning module BlueprintGraph (531)
+[2018.08.08-06.51.07:742][924]LogModuleManager: Shutting down and abandoning module TextureEditor (529)
+[2018.08.08-06.51.07:756][924]LogModuleManager: Shutting down and abandoning module MaterialEditor (527)
+[2018.08.08-06.51.07:756][924]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (525)
+[2018.08.08-06.51.07:756][924]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (523)
+[2018.08.08-06.51.07:757][924]LogModuleManager: Shutting down and abandoning module SceneOutliner (521)
+[2018.08.08-06.51.07:757][924]LogModuleManager: Shutting down and abandoning module AddContentDialog (519)
+[2018.08.08-06.51.07:757][924]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.08.08-06.51.07:757][924]LogModuleManager: Shutting down and abandoning module WidgetCarousel (518)
+[2018.08.08-06.51.07:757][924]LogModuleManager: Shutting down and abandoning module EditorWidgets (515)
+[2018.08.08-06.51.07:757][924]LogModuleManager: Shutting down and abandoning module CollectionManager (513)
+[2018.08.08-06.51.07:771][924]LogDirectoryWatcher: A directory notification for 'D:/Unreal/UnrealProjects/HotSouls/Content/Collections/' was aborted.
+[2018.08.08-06.51.07:771][924]LogDirectoryWatcher: A directory notification for 'D:/Unreal/UnrealProjects/HotSouls/Content/Developers/ajaco/Collections/' was aborted.
+[2018.08.08-06.51.07:771][924]LogDirectoryWatcher: A directory notification for 'D:/Unreal/UnrealProjects/HotSouls/Saved/Collections/' was aborted.
+[2018.08.08-06.51.07:771][924]LogModuleManager: Shutting down and abandoning module StatsViewer (511)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module FoliageEdit (509)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module LandscapeEditor (507)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module MeshPaintMode (505)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (503)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module ActorPickerMode (501)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module GeometryMode (499)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module TextureAlignMode (497)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module BspMode (495)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (493)
+[2018.08.08-06.51.07:791][924]LogModuleManager: Shutting down and abandoning module HardwareSurvey (491)
+[2018.08.08-06.51.07:792][924]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (489)
+[2018.08.08-06.51.07:807][924]LogModuleManager: Shutting down and abandoning module AutomationWorker (487)
+[2018.08.08-06.51.07:817][924]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (485)
+[2018.08.08-06.51.07:834][924]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (483)
+[2018.08.08-06.51.07:870][924]LogModuleManager: Shutting down and abandoning module PlacementMode (482)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (479)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (477)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module MfMediaFactory (475)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module MfMediaEditor (473)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (471)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (469)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (467)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (465)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (463)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module CharacterAI (461)
+[2018.08.08-06.51.07:871][924]LogModuleManager: Shutting down and abandoning module AudioCapture (459)
+[2018.08.08-06.51.07:885][924]LogModuleManager: Shutting down and abandoning module SequenceRecorder (458)
+[2018.08.08-06.51.07:887][924]LogModuleManager: Shutting down and abandoning module SmartSnapping (455)
+[2018.08.08-06.51.07:887][924]LogModuleManager: Shutting down and abandoning module SessionServices (453)
+[2018.08.08-06.51.07:887][924]LogModuleManager: Shutting down and abandoning module ViewportSnapping (451)
+[2018.08.08-06.51.07:887][924]LogModuleManager: Shutting down and abandoning module ViewportInteraction (449)
+[2018.08.08-06.51.07:887][924]LogModuleManager: Shutting down and abandoning module ClothPainter (447)
+[2018.08.08-06.51.07:921][924]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (446)
+[2018.08.08-06.51.07:977][924]LogModuleManager: Shutting down and abandoning module LogVisualizer (443)
+[2018.08.08-06.51.08:013][924]LogModuleManager: Shutting down and abandoning module IntroTutorials (441)
+[2018.08.08-06.51.08:062][924]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (440)
+[2018.08.08-06.51.08:098][924]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (437)
+[2018.08.08-06.51.08:098][924]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (435)
+[2018.08.08-06.51.08:098][924]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (433)
+[2018.08.08-06.51.08:098][924]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (432)
+[2018.08.08-06.51.08:611][924]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (429)
+[2018.08.08-06.51.08:611][924]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (427)
+[2018.08.08-06.51.08:611][924]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (425)
+[2018.08.08-06.51.08:611][924]LogModuleManager: Shutting down and abandoning module InputBindingEditor (423)
+[2018.08.08-06.51.08:611][924]LogModuleManager: Shutting down and abandoning module MergeActors (421)
+[2018.08.08-06.51.08:627][924]LogModuleManager: Shutting down and abandoning module SizeMap (419)
+[2018.08.08-06.51.08:627][924]LogModuleManager: Shutting down and abandoning module TreeMap (417)
+[2018.08.08-06.51.08:637][924]LogModuleManager: Shutting down and abandoning module ReferenceViewer (415)
+[2018.08.08-06.51.08:637][924]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (413)
+[2018.08.08-06.51.08:650][924]LogModuleManager: Shutting down and abandoning module LocalizationService (412)
+[2018.08.08-06.51.08:658][924]LogModuleManager: Shutting down and abandoning module HardwareTargeting (409)
+[2018.08.08-06.51.08:658][924]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (407)
+[2018.08.08-06.51.08:658][924]LogModuleManager: Shutting down and abandoning module UndoHistory (405)
+[2018.08.08-06.51.08:658][924]LogModuleManager: Shutting down and abandoning module XmlParser (403)
+[2018.08.08-06.51.08:674][924]LogModuleManager: Shutting down and abandoning module Blutility (401)
+[2018.08.08-06.51.08:674][924]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (399)
+[2018.08.08-06.51.08:674][924]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (398)
+[2018.08.08-06.51.08:675][924]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (395)
+[2018.08.08-06.51.08:675][924]LogModuleManager: Shutting down and abandoning module SettingsEditor (393)
+[2018.08.08-06.51.08:675][924]LogModuleManager: Shutting down and abandoning module ProjectLauncher (391)
+[2018.08.08-06.51.08:694][924]LogModuleManager: Shutting down and abandoning module SessionFrontend (389)
+[2018.08.08-06.51.08:716][924]LogModuleManager: Shutting down and abandoning module ProfilerClient (387)
+[2018.08.08-06.51.08:727][924]LogModuleManager: Shutting down and abandoning module DeviceManager (385)
+[2018.08.08-06.51.08:737][924]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (384)
+[2018.08.08-06.51.08:791][924]LogModuleManager: Shutting down and abandoning module AutomationController (381)
+[2018.08.08-06.51.08:806][924]LogModuleManager: Shutting down and abandoning module AutomationWindow (379)
+[2018.08.08-06.51.08:821][924]LogModuleManager: Shutting down and abandoning module Layers (377)
+[2018.08.08-06.51.08:833][924]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (375)
+[2018.08.08-06.51.08:833][924]LogModuleManager: Shutting down and abandoning module DetailCustomizations (373)
+[2018.08.08-06.51.08:833][924]LogModuleManager: Shutting down and abandoning module PackagesDialog (371)
+[2018.08.08-06.51.08:833][924]LogModuleManager: Shutting down and abandoning module Persona (369)
+[2018.08.08-06.51.08:858][924]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (368)
+[2018.08.08-06.51.08:858][924]LogModuleManager: Shutting down and abandoning module AnimGraph (366)
+[2018.08.08-06.51.08:858][924]LogModuleManager: Shutting down and abandoning module Kismet (363)
+[2018.08.08-06.51.08:877][924]LogModuleManager: Shutting down and abandoning module ClassViewer (361)
+[2018.08.08-06.51.08:878][924]LogModuleManager: Shutting down and abandoning module Toolbox (359)
+[2018.08.08-06.51.08:879][924]LogModuleManager: Shutting down and abandoning module ModuleUI (357)
+[2018.08.08-06.51.08:895][924]LogModuleManager: Shutting down and abandoning module MovieSceneTools (355)
+[2018.08.08-06.51.08:926][924]LogModuleManager: Shutting down and abandoning module OutputLog (353)
+[2018.08.08-06.51.08:949][924]LogModuleManager: Shutting down and abandoning module GammaUI (351)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module Documentation (349)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (347)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module MovieScene (345)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (343)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module LauncherPlatform (341)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module AnalyticsET (339)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module PortalServices (337)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module PortalRpc (335)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module MessagingRpc (333)
+[2018.08.08-06.51.08:957][924]LogModuleManager: Shutting down and abandoning module AIModule (331)
+[2018.08.08-06.51.08:973][924]LogModuleManager: Shutting down and abandoning module GameplayDebugger (330)
+[2018.08.08-06.51.08:981][924]LogModuleManager: Shutting down and abandoning module AITestSuite (328)
+[2018.08.08-06.51.08:991][924]LogModuleManager: Shutting down and abandoning module DesktopPlatform (325)
+[2018.08.08-06.51.08:991][924]LogModuleManager: Shutting down and abandoning module ProfilerService (323)
+[2018.08.08-06.51.09:095][924]LogModuleManager: Shutting down and abandoning module TaskGraph (321)
+[2018.08.08-06.51.09:119][924]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (319)
+[2018.08.08-06.51.09:119][924]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (317)
+[2018.08.08-06.51.09:132][924]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (315)
+[2018.08.08-06.51.09:132][924]LogModuleManager: Shutting down and abandoning module CableComponent (313)
+[2018.08.08-06.51.09:144][924]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (311)
+[2018.08.08-06.51.09:144][924]LogModuleManager: Shutting down and abandoning module ActorSequence (309)
+[2018.08.08-06.51.09:144][924]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (307)
+[2018.08.08-06.51.09:173][924]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (305)
+[2018.08.08-06.51.09:173][924]LogModuleManager: Shutting down and abandoning module MediaCompositing (303)
+[2018.08.08-06.51.09:173][924]LogModuleManager: Shutting down and abandoning module HTML5Networking (301)
+[2018.08.08-06.51.09:173][924]LogModuleManager: Shutting down and abandoning module AlembicImporter (299)
+[2018.08.08-06.51.09:173][924]LogModuleManager: Shutting down and abandoning module AlembicLibrary (298)
+[2018.08.08-06.51.09:173][924]LogModuleManager: Shutting down and abandoning module GeometryCache (297)
+[2018.08.08-06.51.09:183][924]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (296)
+[2018.08.08-06.51.09:184][924]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (291)
+[2018.08.08-06.51.09:184][924]LogModuleManager: Shutting down and abandoning module PluginBrowser (289)
+[2018.08.08-06.51.09:209][924]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (287)
+[2018.08.08-06.51.09:209][924]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (285)
+[2018.08.08-06.51.09:209][924]LogModuleManager: Shutting down and abandoning module UObjectPlugin (283)
+[2018.08.08-06.51.09:209][924]LogModuleManager: Shutting down and abandoning module GitSourceControl (281)
+[2018.08.08-06.51.09:219][924]LogModuleManager: Shutting down and abandoning module SourceControl (280)
+[2018.08.08-06.51.09:237][924]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (277)
+[2018.08.08-06.51.09:237][924]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (275)
+[2018.08.08-06.51.09:237][924]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (273)
+[2018.08.08-06.51.09:237][924]LogModuleManager: Shutting down and abandoning module Paper2DEditor (271)
+[2018.08.08-06.51.09:253][924]LogModuleManager: Shutting down and abandoning module MeshPaint (270)
+[2018.08.08-06.51.09:260][924]LogModuleManager: Shutting down and abandoning module LevelEditor (268)
+[2018.08.08-06.51.09:277][924]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (267)
+[2018.08.08-06.51.09:283][924]LogModuleManager: Shutting down and abandoning module MainFrame (265)
+[2018.08.08-06.51.09:283][924]LogModuleManager: Shutting down and abandoning module HotReload (264)
+[2018.08.08-06.51.09:293][924]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (259)
+[2018.08.08-06.51.09:293][924]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (257)
+[2018.08.08-06.51.09:293][924]LogModuleManager: Shutting down and abandoning module PhysXVehicles (255)
+[2018.08.08-06.51.09:293][924]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (253)
+[2018.08.08-06.51.09:293][924]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (251)
+[2018.08.08-06.51.09:304][924]LogModuleManager: Shutting down and abandoning module UdpMessaging (249)
+[2018.08.08-06.51.09:419][924]LogModuleManager: Shutting down and abandoning module TcpMessaging (247)
+[2018.08.08-06.51.09:525][924]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (245)
+[2018.08.08-06.51.09:548][924]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (243)
+[2018.08.08-06.51.09:548][924]LogModuleManager: Shutting down and abandoning module FacialAnimation (241)
+[2018.08.08-06.51.09:548][924]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (239)
+[2018.08.08-06.51.09:553][924]LogModuleManager: Shutting down and abandoning module GraphEditor (238)
+[2018.08.08-06.51.09:553][924]LogModuleManager: Shutting down and abandoning module ContentBrowser (236)
+[2018.08.08-06.51.09:554][924]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (233)
+[2018.08.08-06.51.09:554][924]LogModuleManager: Shutting down and abandoning module Paper2D (231)
+[2018.08.08-06.51.09:554][924]LogModuleManager: Shutting down and abandoning module WmfMedia (229)
+[2018.08.08-06.51.09:572][924]LogModuleManager: Shutting down and abandoning module ImgMedia (227)
+[2018.08.08-06.51.09:572][924]LogModuleManager: Shutting down and abandoning module PacketHandler (225)
+[2018.08.08-06.51.09:572][924]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (223)
+[2018.08.08-06.51.09:572][924]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (221)
+[2018.08.08-06.51.09:583][924]LogModuleManager: Shutting down and abandoning module MediaAssets (219)
+[2018.08.08-06.51.09:583][924]LogModuleManager: Shutting down and abandoning module Media (218)
+[2018.08.08-06.51.09:589][924]LogModuleManager: Shutting down and abandoning module Overlay (215)
+[2018.08.08-06.51.09:589][924]LogModuleManager: Shutting down and abandoning module OverlayEditor (214)
+[2018.08.08-06.51.09:589][924]LogModuleManager: Shutting down and abandoning module VREditor (211)
+[2018.08.08-06.51.09:604][924]LogModuleManager: Shutting down and abandoning module StringTableEditor (209)
+[2018.08.08-06.51.09:611][924]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (207)
+[2018.08.08-06.51.09:611][924]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (205)
+[2018.08.08-06.51.09:638][924]LogModuleManager: Shutting down and abandoning module FunctionalTesting (203)
+[2018.08.08-06.51.09:649][924]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (201)
+[2018.08.08-06.51.09:666][924]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (200)
+[2018.08.08-06.51.09:666][924]LogModuleManager: Shutting down and abandoning module UMG (197)
+[2018.08.08-06.51.09:674][924]LogModuleManager: Shutting down and abandoning module UMGEditor (196)
+[2018.08.08-06.51.09:690][924]LogModuleManager: Shutting down and abandoning module Sequencer (195)
+[2018.08.08-06.51.09:700][924]LogModuleManager: Shutting down and abandoning module MessageLog (192)
+[2018.08.08-06.51.09:700][924]LogModuleManager: Shutting down and abandoning module SlateReflector (187)
+[2018.08.08-06.51.09:722][924]LogModuleManager: Shutting down and abandoning module Slate (185)
+[2018.08.08-06.51.09:722][924]LogModuleManager: Shutting down and abandoning module EditorStyle (183)
+[2018.08.08-06.51.09:724][924]LogModuleManager: Shutting down and abandoning module MRMesh (181)
+[2018.08.08-06.51.09:724][924]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (179)
+[2018.08.08-06.51.09:724][924]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (177)
+[2018.08.08-06.51.09:724][924]LogModuleManager: Shutting down and abandoning module XAudio2 (175)
+[2018.08.08-06.51.09:724][924]LogModuleManager: Shutting down and abandoning module Networking (173)
+[2018.08.08-06.51.09:724][924]LogModuleManager: Shutting down and abandoning module Core (171)
+[2018.08.08-06.51.09:724][924]LogModuleManager: Shutting down and abandoning module LevelSequence (167)
+[2018.08.08-06.51.09:736][924]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.08.08-06.51.09:736][924]LogModuleManager: Shutting down and abandoning module KismetCompiler (163)
+[2018.08.08-06.51.09:736][924]LogModuleManager: Shutting down and abandoning module MeshUtilities (161)
+[2018.08.08-06.51.09:761][924]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (160)
+[2018.08.08-06.51.09:766][924]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (159)
+[2018.08.08-06.51.09:766][924]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (158)
+[2018.08.08-06.51.09:777][924]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (156)
+[2018.08.08-06.51.09:778][924]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (154)
+[2018.08.08-06.51.09:778][924]LogModuleManager: Shutting down and abandoning module MaterialBaking (150)
+[2018.08.08-06.51.09:791][924]LogModuleManager: Shutting down and abandoning module DerivedDataCache (147)
+[2018.08.08-06.51.09:798][924]LogDerivedDataCache: Shutdown
+[2018.08.08-06.51.09:798][924]LogModuleManager: Shutting down and abandoning module TargetPlatform (145)
+[2018.08.08-06.51.09:798][924]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (144)
+[2018.08.08-06.51.09:814][924]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (142)
+[2018.08.08-06.51.09:826][924]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (140)
+[2018.08.08-06.51.09:829][924]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (138)
+[2018.08.08-06.51.09:838][924]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (136)
+[2018.08.08-06.51.09:856][924]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (134)
+[2018.08.08-06.51.09:856][924]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (132)
+[2018.08.08-06.51.09:856][924]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (130)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (128)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (126)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module ImageWrapper (125)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (122)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (120)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (118)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (116)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (114)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (112)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (110)
+[2018.08.08-06.51.09:870][924]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (108)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (106)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Messaging (104)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (102)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (100)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (98)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (96)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (94)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (92)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (90)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (88)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (86)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (84)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (82)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (80)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (78)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (76)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (74)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (72)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (70)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (68)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (66)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module InputCore (63)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module Settings (61)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module PhysXCooking (59)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (57)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (55)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (53)
+[2018.08.08-06.51.09:871][924]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (49)
+[2018.08.08-06.51.09:871][924]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.08-06.51.09:880][924]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.08-06.51.09:913][924]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.08-06.51.09:913][924]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.08-06.51.09:913][924]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.08-06.51.09:937][924]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.08-06.51.09:937][924]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.08-06.51.09:946][924]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD95E3E96-49FF-FC1E-2C0B-BDA0B00A812C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=11190b1240f31f967e8486bea5e9ef09%7C66b701745e6440ecbb7f761db8cd274c%7C200f53c0-5aa5-4497-a69c-d2520bdef7c8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.08-06.51.09:978][924]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.08-06.51.09:993][924]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.08-06.51.10:005][924]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.08-06.51.10:006][924]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.08-06.51.10:020][924]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.08-06.51.10:020][924]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.08-06.51.10:020][924]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.08-06.51.10:020][924]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.08-06.51.10:042][924]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.08-06.51.10:061][924]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.08-06.51.10:061][924]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.08-06.51.10:083][924]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.08-06.51.10:083][924]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.08-06.51.10:083][924]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.08-06.51.10:083][924]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.08-06.51.10:090][924]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.08-06.51.10:090][924]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.08-06.51.10:100][924]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.08-06.51.10:113][924]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.08-06.51.10:130][924]LogExit: Exiting.
+[2018.08.08-06.51.10:142][924]Log file closed, 08/08/18 00:51:10

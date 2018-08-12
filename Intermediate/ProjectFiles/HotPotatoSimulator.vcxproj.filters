@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\HotPotatoSimulator.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{46A52CD5-4127-4269-ABA9-08D08E1DF93D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HotPotatoSimulator.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\HotPotatoSimulatorEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{67587B2E-0F1C-427C-9408-44489CF303C9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\HotPotatoSimulator">
+			<UniqueIdentifier>{B3B0B815-A655-4763-A1EB-CC573DFB0FFC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HotPotatoSimulator\HotPotatoSimulator.Build.cs">
+			<Filter>Source\HotPotatoSimulator</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\HotPotatoSimulator\HotPotatoSimulator.cpp">
+			<Filter>Source\HotPotatoSimulator</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HotPotatoSimulator\HotPotatoSimulator.h">
+			<Filter>Source\HotPotatoSimulator</Filter>
+		</ClInclude >
+		<Filter Include="Source\HotPotatoSimulator\FP_FirstPerson">
+			<UniqueIdentifier>{5C10EAD8-673A-446D-9097-7FB94BFA6C36}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HotPotatoSimulator\FP_FirstPerson\FP_FirstPerson.h">
+			<Filter>Source\HotPotatoSimulator\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\HotPotatoSimulator\FP_FirstPerson\FP_FirstPersonCharacter.cpp">
+			<Filter>Source\HotPotatoSimulator\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HotPotatoSimulator\FP_FirstPerson\FP_FirstPersonCharacter.h">
+			<Filter>Source\HotPotatoSimulator\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\HotPotatoSimulator\FP_FirstPerson\FP_FirstPersonGameMode.cpp">
+			<Filter>Source\HotPotatoSimulator\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HotPotatoSimulator\FP_FirstPerson\FP_FirstPersonGameMode.h">
+			<Filter>Source\HotPotatoSimulator\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\HotPotatoSimulator\FP_FirstPerson\FP_FirstPersonHUD.cpp">
+			<Filter>Source\HotPotatoSimulator\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HotPotatoSimulator\FP_FirstPerson\FP_FirstPersonHUD.h">
+			<Filter>Source\HotPotatoSimulator\FP_FirstPerson</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

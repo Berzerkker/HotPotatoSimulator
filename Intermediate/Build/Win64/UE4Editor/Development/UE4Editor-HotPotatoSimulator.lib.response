@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HotPotatoSimulator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\HotPotatoSimulator.cpp.obj"
+"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\FP_FirstPersonCharacter.cpp.obj"
+"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\FP_FirstPersonGameMode.cpp.obj"
+"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\FP_FirstPersonHUD.cpp.obj"
+"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\FP_FirstPersonCharacter.gen.cpp.obj"
+"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\FP_FirstPersonGameMode.gen.cpp.obj"
+"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\FP_FirstPersonHUD.gen.cpp.obj"
+"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\HotPotatoSimulator.init.gen.cpp.obj"
+"D:\Unreal\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\HotPotatoSimulator\PCLaunch.rc.res"
+"D:\Unreal\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Unreal\UnrealProjects\HotSouls\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HotPotatoSimulator.lib"
