@@ -21,6 +21,12 @@ StarterContent/
 /FMOD Project/*.cache
 /FMOD Project/*.restore
 
+Intermediate/AssetRegistryCache/311563bb.bin
+Intermediate/AssetRegistryCache/c90e3f55.bin
+Saved/Autosaves/PackageRestoreData.json
+Saved/Autosaves/Game/Maps/Hospital_Auto1.umap
+Saved/Autosaves/Game/Maps/Hospital_Auto2.umap
+
 Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonCharacter.h
 Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPersonCharacter.cpp
 Source/HotPotatoSimulator/FP_FirstPerson/FP_FirstPerson.h
