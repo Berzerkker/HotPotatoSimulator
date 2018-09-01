@@ -87,3 +87,5 @@ Content/EnvironmentTextures/OfficeCeilingTiles/TexturesCom_OfficeCeiling_1K_norm
 Content/EnvironmentTextures/OfficeCeilingTiles/TexturesCom_OfficeCeiling_1K_height.png
 Content/EnvironmentTextures/OfficeCeilingTiles/TexturesCom_OfficeCeiling_1K_ao.png
 Content/EnvironmentTextures/OfficeCeilingTiles/TexturesCom_OfficeCeiling_1K_albedo.png
+*.fbx
+*.FBX
